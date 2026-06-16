@@ -1,0 +1,6 @@
+{
+  "name": "Siddhivinayak Billing",
+  "description": "Professional Electrical Billing App for Siddhivinayak Electrical Services. Save bills, manage rooms and points, and export PDF invoices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
